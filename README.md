@@ -20,6 +20,12 @@ This repository contains the solution for Task 1, which involves reading tempera
 ## 📸 Circuit Diagram
 [Circuit Diagram](Circuit_Diagram.jpg)
 
+## 🎥 Working Demonstration
+Below is the 60-second live demonstration of the simulation. As the sensor values are adjusted, the temperature updates in real-time on both the Serial Monitor and the I2C LCD.
+
+<video src="YAHAN_APNE_VIDEO_KA_LINK_DAALEIN" controls="controls" style="max-width: 100%;">
+
+
 ## 💻 Arduino Source Code
 
 ```cpp
