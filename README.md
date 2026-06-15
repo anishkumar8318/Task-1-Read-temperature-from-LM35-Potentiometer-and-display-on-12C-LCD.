@@ -1,5 +1,4 @@
-# Task-1-Read-temperature-from-LM35-Potentiometer-and-display-on-12C-LCD.
-Task1
+
 # 🌡️ Task 1: Temperature Monitoring System
 
 ### Alfido Tech - Embedded Systems Internship
