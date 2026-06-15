@@ -23,8 +23,8 @@ This repository contains the solution for Task 1, which involves reading tempera
 ## 🎥 Working Demonstration
 Below is the 60-second live demonstration of the simulation. As the sensor values are adjusted, the temperature updates in real-time on both the Serial Monitor and the I2C LCD.
 
+<video src="VID-20260615-WA0002.mp4" controls="controls" style="max-width: 100%;"></video>
 
-<video src="https://github.com/anishkumar8318/Task-1-Read-temperature-from-LM35-Potentiometer-and-display-on-12C-LCD./raw/refs/heads/main/README.md" controls="controls" style="max-width: 100%;"></video>
 
 ## 💻 Arduino Source Code
 
