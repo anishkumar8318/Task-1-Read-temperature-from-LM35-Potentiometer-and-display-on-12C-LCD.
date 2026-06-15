@@ -23,7 +23,7 @@ This repository contains the solution for Task 1, which involves reading tempera
 ## 🎥 Working Demonstration
 Below is the 60-second live demonstration of the simulation. As the sensor values are adjusted, the temperature updates in real-time on both the Serial Monitor and the I2C LCD.
 
-<video src="VID-20260615-WA0002.mp4" controls="controls" style="max-width: 100%;">
+src="VID-20260615-WA0002.mp4" controls="controls" style="max-width: 100%;"
 
 
 ## 💻 Arduino Source Code
